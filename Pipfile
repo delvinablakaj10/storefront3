@@ -16,9 +16,15 @@ pillow = "*"
 django-cors-headers = "*"
 redis = "*"
 celery = "*"
+flower = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest = "*"
+pytest-django = "*"
+pyte = "*"
+pytest-watch = "*"
+locust = "*"
 
 [requires]
 python_version = "3.12"
