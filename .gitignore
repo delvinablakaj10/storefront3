@@ -1,3 +1,4 @@
 *.pyc
 /media/
 celery-beat.db
+/static/
